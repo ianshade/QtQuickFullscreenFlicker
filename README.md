@@ -1,5 +1,6 @@
 # QtQuickFullscreenFlicker
-Minimal repository showing a bug(?) in Qt Quick causing a fullscreen window to flicker when dialogs are opened.
+~~Minimal repository showing a bug(?) in Qt Quick causing a fullscreen window to flicker when dialogs are opened.~~
+Nevermind just update your graphics drivers :)
 
 Platform to reproduce: Windows 10 64bit
 
